@@ -1,0 +1,6 @@
+/home/corob/ur10_ws/build/CMakeFiles/clean_test_results.dir
+/home/corob/ur10_ws/build/CMakeFiles/doxygen.dir
+/home/corob/ur10_ws/build/gtest/CMakeFiles/gtest.dir
+/home/corob/ur10_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/corob/ur10_ws/build/CMakeFiles/run_tests.dir
+/home/corob/ur10_ws/build/CMakeFiles/tests.dir
